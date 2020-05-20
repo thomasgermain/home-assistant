@@ -1538,6 +1538,9 @@ pymonoprice==0.3
 # homeassistant.components.msteams
 pymsteams==0.1.12
 
+# homeassistant.components.multimatic
+pymultimatic==0.3.0
+
 # homeassistant.components.yamaha_musiccast
 pymusiccast==0.1.6
 
